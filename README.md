@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Bley Abogados - Especialistas en negligencias medicas" src="https://github.com/bleyabogados/guia-documentacion-clinica-pacientes/blob/main/img/guia-documentacion-clinica-pacientes.JPG" />
+<img width="1200" height="675" alt="Bley Abogados - Especialistas en negligencias medicas" src="https://github.com/bleyabogados/guia-documentacion-clinica-pacientes/blob/main/img/guia-documentacion-clinica-pacientes.JPG" />
 </div>
 
 # Bley Abogados - Guía de Documentación Clínica para Pacientes
