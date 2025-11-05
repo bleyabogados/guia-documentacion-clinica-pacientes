@@ -59,3 +59,7 @@ Esta herramienta es una extensión de nuestro compromiso profesional.
 ### Aviso Legal
 
 El contenido y las herramientas de esta guía son de carácter informativo y no constituyen asesoramiento jurídico personalizado. El uso de esta aplicación no establece una relación abogado-cliente. Para un análisis de su caso concreto, es imprescindible contactar con un abogado especialista.
+
+<div align="center">
+<img width="1200" height="475" alt="Bley Abogados - Especialistas en negligencias medicas" src="https://bleyabogados.es/wp-content/uploads/2025/10/despacho-abogados-neglicencia-medica.webp" />
+</div>
