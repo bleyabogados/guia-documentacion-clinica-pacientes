@@ -632,7 +632,7 @@ Fdo.: ${name}
         });
 
         // Download functionality (global scope for onclick handlers)
-        const templateContent = \`A la atención del Servicio de Atención al Paciente / Archivo y Documentación Clínica
+        const templateContent = `A la atención del Servicio de Atención al Paciente / Archivo y Documentación Clínica
 [Dirección del Hospital/Centro Médico]
 [Código Postal, Ciudad]
 
@@ -651,7 +651,7 @@ En [Lugar], a [Fecha].
 Atentamente,
 
 
-Fdo.: [Su Nombre y Apellidos]\`;
+Fdo.: [Su Nombre y Apellidos]`;
         
         const checklistItems = [
             "Historia Clínica Completa",
@@ -679,7 +679,7 @@ Fdo.: [Su Nombre y Apellidos]\`;
         function downloadDOCX() {
             const doc = new docx.Document({
                 sections: [{
-                    children: templateContent.split('\\n').map(p => new docx.Paragraph({ text: p })),
+                    children: templateContent.split('\n').map(p => new docx.Paragraph({ text: p })),
                 }],
             });
 
@@ -706,4 +706,3 @@ Fdo.: [Su Nombre y Apellidos]\`;
     </script>
 </body>
 </html>
-
