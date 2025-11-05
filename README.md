@@ -4,7 +4,7 @@
 
 # Bley Abogados - Guía de Documentación Clínica para Pacientes
 
-Esta aplicación web es una herramienta legal y práctica desarrollada por **Bley Abogados**, un despacho de [https://bleyabogados.es/](abogados especialistas en negligencias médicas) y derecho sanitario. Su objetivo principal es **empoderar a los pacientes**, proporcionándoles el conocimiento y los recursos necesarios para ejercer su derecho fundamental de acceso a su historia clínica de una manera rigurosa, informada y efectiva.
+Esta aplicación web es una herramienta legal y práctica desarrollada por **Bley Abogados**, un despacho de [https://bleyabogados.es/](https://bleyabogados.es/)  y derecho sanitario. Su objetivo principal es **empoderar a los pacientes**, proporcionándoles el conocimiento y los recursos necesarios para ejercer su derecho fundamental de acceso a su historia clínica de una manera rigurosa, informada y efectiva.
 
 Este proyecto refleja nuestra **experiencia (Experience)** diaria defendiendo a pacientes y nuestra **pericia (Expertise)** en la materia, condensando el proceso en una guía interactiva y fácil de usar.
 
